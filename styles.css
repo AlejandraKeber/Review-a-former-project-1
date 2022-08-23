@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:200i,400&display=swap');
+
+body {    
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    background-color:blueviolet;
+    background-size: 1400px;
+
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 50px 100px 75px; 
+    
+}
+
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}   
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+form {
+    background-color: #1b1b32;
+    margin: 40px 200px 40px 200px;
+    padding: 25px 50px 75px 50px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.submit-buttom{
+    background-color: #37af65
+}
